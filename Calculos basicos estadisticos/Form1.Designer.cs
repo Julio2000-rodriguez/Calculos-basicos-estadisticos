@@ -73,7 +73,7 @@
             // 
             // btnCalcularEstandar
             // 
-            this.btnCalcularEstandar.Location = new System.Drawing.Point(44, 181);
+            this.btnCalcularEstandar.Location = new System.Drawing.Point(93, 152);
             this.btnCalcularEstandar.Name = "btnCalcularEstandar";
             this.btnCalcularEstandar.Size = new System.Drawing.Size(121, 23);
             this.btnCalcularEstandar.TabIndex = 4;
@@ -83,7 +83,7 @@
             // 
             // btnCalcularTipica
             // 
-            this.btnCalcularTipica.Location = new System.Drawing.Point(115, 210);
+            this.btnCalcularTipica.Location = new System.Drawing.Point(233, 152);
             this.btnCalcularTipica.Name = "btnCalcularTipica";
             this.btnCalcularTipica.Size = new System.Drawing.Size(121, 23);
             this.btnCalcularTipica.TabIndex = 5;
@@ -96,7 +96,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Cornsilk;
-            this.ClientSize = new System.Drawing.Size(248, 235);
+            this.ClientSize = new System.Drawing.Size(567, 430);
             this.Controls.Add(this.btnCalcularTipica);
             this.Controls.Add(this.btnCalcularEstandar);
             this.Controls.Add(this.btnMediaAritmetica);

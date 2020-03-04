@@ -16,7 +16,7 @@ namespace Calculos_basicos_estadisticos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Perrito());
         }
     }
 }
